@@ -11,9 +11,9 @@ Dessa forma conseguimos instalar o Laravel via composer, usando o comando abaixo
 
 Lembre-se de se certificar de que o diretório do composer está no PATH do seu sistema. 
 
-Com o laravel instalado, criar um projeto é bem simples. Mas isso é assunto para a próxima aula. 
+Se tiver qualquer problema com a instalação, não hesite em procurar na documentação ou pedir ajuda à IA (sempre entendendo o que está sendo feito). É comum faltar algum pacote, se precisar, peça ajuda! 
 
-Se tiver qualquer problema com a instalação, não hesite em procurar na documentação ou pedir ajuda à IA (sempre entendendo o que está sendo feito)
+Com o laravel instalado, criar um projeto é bem simples. Mas isso é assunto para a próxima aula. 
 
 [Próximo: Criando um Projeto →](./03-criando-projeto.md)
 
