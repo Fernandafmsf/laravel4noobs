@@ -35,3 +35,5 @@ Laravel segue o padrão MVC (Model-View-Controller), uma das arquiteturas mais p
 - View: É a camada de apresentação, o que o usuário vê. No Laravel usamos o Blade para criar as views. 
 
 - Controller: É o intermediário, responsável por receber as requisições HTTP que vem das rotas, consultar as models se preciso e, então, retornar um view (ou JSON se for uma api).  
+
+[Próximo: Instalação →](./02-instalacao.md)

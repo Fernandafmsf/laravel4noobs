@@ -11,7 +11,7 @@
 <p align="center">
   <h2 align="center">Laravel 4 noobs</h2>
 
-  <h1 align="center"><img src="src/images/laravel.svg" alt="Imagem da linguagem" width="120"></h1>
+  <h1 align="center"><img src="curso/images/laravel.svg" alt="Imagem da linguagem" width="120"></h1>
   
   <p align="center">
     <br />
@@ -33,16 +33,16 @@ O Laravel é um poderoso framework PHP que facilita a construção de aplicaçõ
 
 ## ROADMAP
 
-- [Conteúdo 1](src/content/01-introducao.md)
-- [Conteúdo 2](link-segunda-parte)
-- [Conteúdo 3](link-terceira-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  	- [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
-- [Conteúdo 4](link-quarta-parte)
-- [Conteúdo 5](link-quinta-parte)
-  - [Sub-conteúdo](link-sub-conteudo)
-  - [Sub-conteúdo](link-sub-conteudo)
+- [Introdução](curso/content/01-introducao.md)
+- [Instalação](curso/content/02-instalacao.md)
+- [Criando um novo projeto](curso/content/03-criando-projeto.md)
+  - [Estrutura de diretórios](link-sub-conteudo)
+  - [Configurando o ambiente](link-sub-conteudo)
+  - [Rodando o servidor dev](link-sub-conteudo)
+  - [Comandos importantes](link-quarta-parte)
+- [Rotas](link-quinta-parte)
+- [Controllers](link-sub-conteudo)
+- [Blade](link-sub-conteudo)
   
   
 <!-- CONTRIBUTING -->
