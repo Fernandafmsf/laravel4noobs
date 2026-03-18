@@ -7,7 +7,7 @@ E realmente, quanto mais você se aprofundar no Laravel, vai ver que parece **me
 ### Mas afinal de contas, o que é o Laravel?
 O Laravel é simplesmente o que chamamos de **framework**. Criado por Taylor Otwell em 2011, tem foco em elegância, simplicidade e produtividade.
 
-Ele nos dá toda uma estrutura para iniciar nossa aplicação Web, evitando que seja necessário criar e se preocupar com diversos detalhes, com roteamento, migrações de banco de dados filas... 
+Ele nos dá toda uma estrutura para iniciar nossa aplicação Web, evitando que seja necessário criar e se preocupar com diversos detalhes, como roteamento, migrações de banco de dados, filas... 
 
 O Laravel possui tudo embutido (ou é integrado facilmente).
 
