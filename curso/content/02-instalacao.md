@@ -1,5 +1,5 @@
 ## Instalação 
-Essa parte é bem simples, para instalar o Laravel precisamos ter já instalado: 
+Essa parte é bem simples, para instalar o Laravel precisamos ter já no nosso ambiente: 
 - PHP 8.2 ou superior 
 - Composer (gerenciador de dependências do PHP)
 - Node.js e NPM (para o front)
